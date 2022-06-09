@@ -1,0 +1,154 @@
+** BTM **
+
+Android_lemma
+topic1	view | contract | presenter | great | content 
+topic2	wrong | null | issue | return | big 
+topic3	live | bind | datum | view | model 
+topic4	repo | code | architecture | build | project 
+topic5	dagger | inject | repository | reference | implementation 
+topic6	final | channel | listchannel | getchannel | cursor 
+topic7	job | service | log | activity | viewmodel 
+topic8	file | stable | import | basically | wait 
+topic9	tablet | layout | variant | fragment | add 
+topic10	fragment | sample | specific | beautiful | branch 
+
+Jenkinsci_lemma
+topic1	jenkins | cause | class | error | fail 
+topic2	plugin | false | credential | true | git 
+topic3	job | script | plugin | jenkin | pipeline 
+topic4	file | jenkin | secret | jenkins | credential 
+topic5	nov | attribute | global | casc | view 
+topic6	plugin | jenkin | configuration | file | yaml 
+topic7	plugin | jcasc | work | issue | release 
+topic8	sudo | install | docker | table | aptget 
+topic9	scope | key | private | global | credential 
+topic10	info | oct | error | runcommand | mar 
+
+Flutter_lemma
+topic1	eflutter | asynchronous | suspension | error | closure 
+topic2	android | version | flutter | device | sdk 
+topic3	widget | call | state | list | class 
+topic4	flutter | app | work | code | android 
+topic5	iflutter | exception | widget | child | throw 
+topic6	return | string | final | await | class 
+topic7	build | error | fail | project | file 
+topic8	class | dart | library | flutter | asset 
+topic9	export | device | copy | exclude | flutter 
+topic10	child | widget | return | context | color 
+
+
+** DMM **
+
+Android_lemma
+topic1	return | final | autogenerate | dao | implementation 
+topic2	project | github | wrong | sample | metric 
+topic3	null | work | issue | enable | return 
+topic4	activity | viewmodel | service | data | body 
+topic5	view | live | model | comment | content 
+topic6	view | presenter | contract | proguard | great 
+topic7	build | sample | code | log | start 
+topic8	fragment | sample | specific | idea | reason 
+topic9	dagger | pull | request | inject | repository 
+topic10	file | mvvm | sample | code | files 
+
+Jenkinsci_lemma
+topic1	issue | plugin | release | github | work 
+topic2	secret | credential | file | vault | docker 
+topic3	class | jenkins | plugin | export | cause 
+topic4	test | error | info | work | build 
+topic5	meeting | time | work | jcasc | week 
+topic6	configuration | file | jenkin | config | plugin 
+topic7	job | script | file | create | plugin 
+topic8	file | casc | work | yaml | key 
+topic9	plugin | support | version | release | jenkin 
+topic10	info | plugin | false | configuration | java 
+
+Flutter_lemma
+topic1	screen | button | app | change | flutter 
+topic2	flutter | work | dart | code | good 
+topic3	flutter | version | android | package | dart 
+topic4	flutter | android | app | build | work 
+topic5	widget | call | state | class | method 
+topic6	widget | child | container | list | image 
+topic7	flutter | app | plugin | code | work 
+topic8	return | string | await | type | final 
+topic9	iflutter | error | eflutter | exception | flutter 
+topic10	child | widget | return | context | class 
+
+
+** GPU-PDMM **
+
+Android_lemma
+topic1	proguard | work | view | live | model 
+topic2	sample | fragment | annotation | start | question 
+topic3	build | tablet | comment | layout | variant 
+topic4	dagger | presenter | data | datum | branch 
+topic5	activity | viewmodel | bind | job | service 
+topic6	return | final | brother | pull | null 
+topic7	great | view | contract | architecture | presenter 
+topic8	remove | service | loader | style | static 
+topic9	request | file | view | content | miss 
+topic10	log | length | travis | code | metric 
+
+Jenkinsci_lemma
+topic1	info | false | plugin | true | error 
+topic2	credential | secret | key | file | variable 
+topic3	time | meeting | week | nice | great 
+topic4	job | script | work | create | pipeline 
+topic5	file | yaml | config | configuration | work 
+topic6	issue | work | github | create | good 
+topic7	release | test | update | build | version 
+topic8	error | class | fail | cause | root 
+topic9	plugin | jcasc | support | code | list 
+topic10	plugin | jenkin | jenkins | jcasc | configure 
+
+Flutter_lemma
+topic1	iflutter | child | widget | eflutter | flutter 
+topic2	widget | child | text | color | container 
+topic3	flutter | dart | library | native | google 
+topic4	flutter | app | android | ios | build 
+topic5	image | user | app | firebase | list 
+topic6	flutter | version | file | package | dart 
+topic7	return | context | final | string | class 
+topic8	error | code | work | fail | problem 
+topic9	widget | call | state | class | method 
+topic10	work | code | issue | time | question 
+
+
+** WNTM **
+
+Android_lemma
+topic1	return | final | autogenerate | dao | implementation 
+topic2	project | github | wrong | sample | metric 
+topic3	null | work | issue | enable | return 
+topic4	activity | viewmodel | service | data | body 
+topic5	view | live | model | comment | content 
+topic6	view | presenter | contract | proguard | great 
+topic7	build | sample | code | log | start 
+topic8	fragment | sample | specific | idea | reason 
+topic9	dagger | pull | request | inject | repository 
+topic10	file | mvvm | sample | code | files 
+
+Jenkinsci_lemma
+topic1	jenkin | file | casc | config | yaml 
+topic2	instal | plugin | git | install | version 
+topic3	file | secret | root | docker | jenkin 
+topic4	global | credential | casc | nov | key 
+topic5	jenkins | false | true | jenkin | numexecutor 
+topic6	info | error | fail | project | snapshot 
+topic7	class | cause | jenkins | error | fail 
+topic8	issue | plugin | jcasc | work | release 
+topic9	script | pipeline | jenkin | create | master 
+topic10	week | meeting | time | jcasc | work 
+
+Flutter_lemma
+topic1	android | flutter | version | device | ios 
+topic2	child | color | container | text | return 
+topic3	screen | list | call | state | app 
+topic4	flutter | version | dart | package | sdk 
+topic5	eflutter | export | asynchronous | type | suspension 
+topic6	error | build | file | fail | project 
+topic7	iflutter | throw | exception | assertion | size 
+topic8	flutter | app | dart | work | plugin 
+topic9	string | await | return | var | async 
+topic10	class | return | dart  | library | extend 
