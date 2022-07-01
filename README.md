@@ -1,5 +1,5 @@
 # review_sttmfiles
-Content related to paper 03
+Content related to paper "Evaluation of short text topic models applied to instant messaging communication of software developers"
 
 Data available:
 
