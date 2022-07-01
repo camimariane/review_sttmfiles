@@ -12,6 +12,18 @@ topic8	file | stable | import | basically | wait
 topic9	tablet | layout | variant | fragment | add 
 topic10	fragment | sample | specific | beautiful | branch 
 
+Android_stem
+topic1	tablet | layout | variant | sampl | fragment 
+topic2	view | contract | great | present | work 
+topic3	fragment | sampl | specif | present | beauti 
+topic4	project | architectur | wrong | null | github 
+topic5	viewmodel | dagger | servic | activ | editview 
+topic6	final | channel | listchannel | getchannel | cursor 
+topic7	live | data | bind | model | view 
+topic8	code | file | pull | request | open 
+topic9	log | length | build | travi | proguard 
+topic10	verbos | proguard | face | search | find 
+
 Jenkinsci_lemma
 topic1	jenkins | cause | class | error | fail 
 topic2	plugin | false | credential | true | git 
@@ -62,6 +74,18 @@ topic7	build | sample | code | log | start
 topic8	fragment | sample | specific | idea | reason 
 topic9	dagger | pull | request | inject | repository 
 topic10	file | mvvm | sample | code | files 
+
+Android_stem
+topic1	repo | project | github | sampl | build 
+topic2	tablet | layout | variant | harder | sampl 
+topic3	data | bodi | commit | comment | issu 
+topic4	build | proguard | log | class | travi 
+topic5	code | metric | arquitectur | architectur | github 
+topic6	viewmodel | activ | servic | pull | request 
+topic7	file | editview | content | code | stabl 
+topic8	view | live | model | repositori | data 
+topic9	sampl | present | view | work | fragment 
+topic10	return | final | null | implement | autogener 
 
 Jenkinsci_lemma
 topic1	issue | plugin | release | github | work 
@@ -114,6 +138,18 @@ topic8	remove | service | loader | style | static
 topic9	request | file | view | content | miss 
 topic10	log | length | travis | code | metric 
 
+Android_stem
+topic1	build | proguard | log | length | editview 
+topic2	view | present | data | content | github 
+topic3	bodi | agre | cach | dao | environ 
+topic4	final | return | github | cach | bodi 
+topic5	dagger | inject | provid | callback | activ 
+topic6	architectur | project | commun | iirc | sens 
+topic7	file | sampl | stabl | great | bind 
+topic8	servic | activ | combin | viewmodel | handi 
+topic9	code | repositori | applic | unoffici | metric 
+topic10	fragment | sampl | build | start | reason 
+
 Jenkinsci_lemma
 topic1	info | false | plugin | true | error 
 topic2	credential | secret | key | file | variable 
@@ -164,6 +200,18 @@ topic7	build | sample | code | log | start
 topic8	fragment | sample | specific | idea | reason 
 topic9	dagger | pull | request | inject | repository 
 topic10	file | mvvm | sample | code | files 
+
+Android_stem
+topic1	view | question | contract | separ | present 
+topic2	servic | job | proguard | log | length 
+topic3	file | import | open | pull | request 
+topic4	view | bind | model | data | livedata 
+topic5	viewmodel | refer | dagger | provid | implement 
+topic6	fragment | sampl | specif | activ | start 
+topic7	code | metric | content | readm | multipl 
+topic8	layout | tablet | variant | reason | todomvptablet 
+topic9	build | project | architectur | repo | app 
+topic10	final | getchannel | listchannel | channel | implement
 
 Jenkinsci_lemma
 topic1	jenkin | file | casc | config | yaml 
