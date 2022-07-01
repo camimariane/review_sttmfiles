@@ -1,5 +1,11 @@
 # review_sttmfiles
 Content related to paper 03
 
-List of files in this repo:
--
+Data available:
+
+- "GitterRooms_Messages.rar": JSONs with Gitter chat rooms' messages (downloaded with Gitter API - https://developer.gitter.im/docs/welcome)
+- "stopwords_list": Customized list of stop words
+- "topic": Topics obtained with each combination of model and corpus
+- "intrusion_tasks.csv": Results of the survey for the Intrusion Tasks
+- "topicnaming_tasks.csv": Results of the survey for the Topic Naming Tasks
+- "scores_intrinsicmetrics.csv": Scores of topic coherence metrics (at topic and model levels)
