@@ -36,6 +36,18 @@ topic8	sudo | install | docker | table | aptget
 topic9	scope | key | private | global | credential 
 topic10	info | oct | error | runcommand | mar 
 
+Jenkinsci_stem
+topic1	info | oct | onattain | start | file 
+topic2	jenkin | configur | plugin | file | yaml 
+topic3	nov | configur | casc | warn | global 
+topic4	fals | jenkin | configur | caus | true 
+topic5	plugin | work | jcasc | issu | jenkin 
+topic6	credenti | secret | jenkin | scope | descript 
+topic7	plugin | git | api | pipelin | credenti 
+topic8	sudo | instal | docker | tabl | aptget 
+topic9	info | error | runcommand | mar | parent 
+topic10	import | class | privat | public | secret 
+
 Flutter_lemma
 topic1	eflutter | asynchronous | suspension | error | closure 
 topic2	android | version | flutter | device | sdk 
@@ -98,6 +110,18 @@ topic7	job | script | file | create | plugin
 topic8	file | casc | work | yaml | key 
 topic9	plugin | support | version | release | jenkin 
 topic10	info | plugin | false | configuration | java 
+
+Jenkinsci_stem
+topic1	plugin | configur | work | code | class 
+topic2	plugin | releas | issu | work | github 
+topic3	configur | class | plugin | jenkin | root 
+topic4	meet | time | jenkin | jcasc | week 
+topic5	jenkin | plugin | instal | configur | jcasc 
+topic6	error | test | info | build | fail 
+topic7	file | secret | yaml | jenkin | variabl 
+topic8	export | work | configur | credenti | jcasc 
+topic9	job | script | jenkin | file | plugin 
+topic10	info | credenti | configur | plugin | jenkin 
 
 Flutter_lemma
 topic1	screen | button | app | change | flutter 
@@ -162,6 +186,18 @@ topic8	error | class | fail | cause | root
 topic9	plugin | jcasc | support | code | list 
 topic10	plugin | jenkin | jenkins | jcasc | configure 
 
+Jenkinsci_stem
+topic1	info | fals | configur | plugin | warn 
+topic2	file | yaml | jenkin | docker | secret 
+topic3	jenkin | configur | plugin | jcasc | casc 
+topic4	credenti | key | secret | privat | system 
+topic5	class | configur | error | export | caus 
+topic6	test | work | error | fail | build 
+topic7	job | script | work | creat | pipelin 
+topic8	meet | time | nice | week | great 
+topic9	plugin | releas | updat | jcasc | version 
+topic10	issu | work | github | check | find 
+
 Flutter_lemma
 topic1	iflutter | child | widget | eflutter | flutter 
 topic2	widget | child | text | color | container 
@@ -224,6 +260,18 @@ topic7	class | cause | jenkins | error | fail
 topic8	issue | plugin | jcasc | work | release 
 topic9	script | pipeline | jenkin | create | master 
 topic10	week | meeting | time | jcasc | work 
+
+Jenkinsci_stem
+topic1	fail | warn | project | error | tat 
+topic2	error | step | script | pipelin | java 
+topic3	info | oct | root | download | runcommand 
+topic4	meet | week | time | jcasc | work 
+topic5	jenkin | file | casc | config | instanc 
+topic6	credenti | secret | system | scope | global 
+topic7	jcasc | issu | work | plugin | github 
+topic8	fals | true | jenkin | url | numexecutor 
+topic9	instal | plugin | git | version | releas 
+topic10	class | jenkin | caus | error | type 
 
 Flutter_lemma
 topic1	android | flutter | version | device | ios 
