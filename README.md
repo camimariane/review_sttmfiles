@@ -1,5 +1,5 @@
 # review_sttmfiles
-Content related to paper "Evaluation of short text topic models applied to instant messaging communication of software developers"
+Content related to paper "Applying short text topic models to instant messaging communication of software developers" submitted to the Journal of Systems and Software.
 
 Data available:
 
