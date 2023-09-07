@@ -1,0 +1,3077 @@
+[
+  {
+    "id": "5702847211ea211749c4923b",
+    "text": "can it show PRs?",
+    "html": "can it show PRs?",
+    "sent": "2016-04-04T15:12:50.248Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57028478d9b73e635f6906e7",
+    "text": "it didn’t show my PR nor your comment",
+    "html": "it didn’t show my PR nor your comment",
+    "sent": "2016-04-04T15:12:56.565Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570284dad39de41b4960643f",
+    "text": "`Pull request\nPull request opened, closed, assigned, labeled, or synchronized.`",
+    "html": "<code>Pull request\nPull request opened, closed, assigned, labeled, or synchronized.</code>",
+    "sent": "2016-04-04T15:14:34.609Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570284e976b6f9de194def5c",
+    "text": "it's enabled...",
+    "html": "it&#39;s enabled...",
+    "sent": "2016-04-04T15:14:49.305Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57028520d478c81e2cbce4e7",
+    "text": "didn’t show up",
+    "html": "didn’t show up",
+    "sent": "2016-04-04T15:15:44.384Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570285228d2a72471b7cd8ad",
+    "text": "LIES",
+    "html": "LIES",
+    "sent": "2016-04-04T15:15:46.084Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5703d92edc7a7377569774c8",
+    "text": "not sure about #29. If `getSupportActionBar` returns null it means something bigger is wrong... this would make debugging the issue harder",
+    "html": "not sure about <span data-link-type=\"issue\" data-issue=\"29\" class=\"issue\">#29</span>. If <code>getSupportActionBar</code> returns null it means something bigger is wrong... this would make debugging the issue harder",
+    "sent": "2016-04-05T15:26:38.472Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 11,
+    "urls": [],
+    "mentions": [],
+    "issues": [
+      {
+        "number": "29"
+      }
+    ],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5704c1ad8eec5313252e7efc",
+    "text": "Is this null somewhere? Maybe a crash reporting tool would be handy",
+    "html": "Is this null somewhere? Maybe a crash reporting tool would be handy",
+    "sent": "2016-04-06T07:58:37.700Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 12,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57053ebd82aae5fc2799f49d",
+    "text": "How important it is to know how it work",
+    "html": "How important it is to know how it work",
+    "sent": "2016-04-06T16:52:13.464Z",
+    "fromUser": {
+      "id": "570539d9187bb6f0eade2b75",
+      "username": "marvelou",
+      "displayName": "marvelou",
+      "url": "/marvelou",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/marvelou",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18144603?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18144603?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 11,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570f3b06af46361038646349",
+    "text": "haha",
+    "html": "haha",
+    "sent": "2016-04-14T06:39:02.049Z",
+    "fromUser": {
+      "id": "570f3afa187bb6f0eadf600e",
+      "username": "wangxinarhat",
+      "displayName": "wangxinarhat",
+      "url": "/wangxinarhat",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/wangxinarhat",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/14964925?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/14964925?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570f75415ed5a4fd3fe2ec5b",
+    "text": "Please take a look at ",
+    "html": "Please take a look at ",
+    "sent": "2016-04-14T10:47:29.680Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570f75483ddb73ba105bfa97",
+    "text": "#45 ",
+    "html": "<span data-link-type=\"issue\" data-issue=\"45\" class=\"issue\">#45</span> ",
+    "sent": "2016-04-14T10:47:36.023Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [],
+    "mentions": [],
+    "issues": [
+      {
+        "number": "45"
+      }
+    ],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570f7c504c2125fc3f024c20",
+    "text": "thx",
+    "html": "thx",
+    "sent": "2016-04-14T11:17:36.114Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57105f34b30cfa0f384b955d",
+    "text": "may i start on Kotlin sample?",
+    "html": "may i start on Kotlin sample?",
+    "sent": "2016-04-15T03:25:40.432Z",
+    "fromUser": {
+      "id": "54eab26c15522ed4b3dc5777",
+      "username": "subhasha1",
+      "displayName": "Subhash",
+      "url": "/subhasha1",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/subhasha1",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/4303620?v=3&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/4303620?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5710b8154c2125fc3f029f24",
+    "text": "we don't have that on the roadmap for the next release, however you can fork it and build it in your own repo for now, we'll have an unofficial sample list",
+    "html": "we don&#39;t have that on the roadmap for the next release, however you can fork it and build it in your own repo for now, we&#39;ll have an unofficial sample list",
+    "sent": "2016-04-15T09:44:53.143Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5716cfc698c544f1396cb0c9",
+    "text": "(⊙＿⊙)",
+    "html": "(⊙＿⊙)",
+    "sent": "2016-04-20T00:39:34.136Z",
+    "fromUser": {
+      "id": "56e8c86c85d51f252ab904ff",
+      "username": "shy0013",
+      "displayName": "Yang",
+      "url": "/shy0013",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/shy0013",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/14967920?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/14967920?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 15,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720b76939700a780927a18b",
+    "text": "im curious to check which arquitecture has the best code metrics",
+    "html": "im curious to check which arquitecture has the best code metrics",
+    "sent": "2016-04-27T12:58:17.485Z",
+    "fromUser": {
+      "id": "5677e81716b6c7089cbf7485",
+      "username": "tiagoalmeidagit",
+      "displayName": "tiagoalmeidagit",
+      "url": "/tiagoalmeidagit",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/tiagoalmeidagit",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720b7c49b4160fa760a4c4a",
+    "text": "What's \"best\" for you? ",
+    "html": "What&#39;s &quot;best&quot; for you? ",
+    "sent": "2016-04-27T12:59:48.371Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720b8a70f156f102b4138f7",
+    "text": "less files and code",
+    "html": "less files and code",
+    "sent": "2016-04-27T13:03:35.736Z",
+    "fromUser": {
+      "id": "5677e81716b6c7089cbf7485",
+      "username": "tiagoalmeidagit",
+      "displayName": "tiagoalmeidagit",
+      "url": "/tiagoalmeidagit",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/tiagoalmeidagit",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720b8f5e8a4670f2b5cf9d3",
+    "text": "I can't agree with that :)",
+    "html": "I can&#39;t agree with that :)",
+    "sent": "2016-04-27T13:04:53.373Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720b95f4ba1347709b57fe3",
+    "text": "you are right those 2 metrics alone don't say much about the arquitecture quality, maybe lines per file?",
+    "html": "you are right those 2 metrics alone don&#39;t say much about the arquitecture quality, maybe lines per file?",
+    "sent": "2016-04-27T13:06:39.173Z",
+    "fromUser": {
+      "id": "5677e81716b6c7089cbf7485",
+      "username": "tiagoalmeidagit",
+      "displayName": "tiagoalmeidagit",
+      "url": "/tiagoalmeidagit",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/tiagoalmeidagit",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720ba2e0f156f102b413989",
+    "text": "maybe those metrics don't mean much, you actually have to read the code and use the architecture which makes more sense",
+    "html": "maybe those metrics don&#39;t mean much, you actually have to read the code and use the architecture which makes more sense",
+    "sent": "2016-04-27T13:10:06.276Z",
+    "fromUser": {
+      "id": "5677e81716b6c7089cbf7485",
+      "username": "tiagoalmeidagit",
+      "displayName": "tiagoalmeidagit",
+      "url": "/tiagoalmeidagit",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/tiagoalmeidagit",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3733055?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 16,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5720db858a90ed7913132a0e",
+    "text": "heh, yeah. I think that's the point of the README. We have multiple sections, so that you can decide which metric you like the most. There are factors like the experience of your team, whether you're coding alone, whether you are expanding or not... ",
+    "html": "heh, yeah. I think that&#39;s the point of the README. We have multiple sections, so that you can decide which metric you like the most. There are factors like the experience of your team, whether you&#39;re coding alone, whether you are expanding or not... ",
+    "sent": "2016-04-27T15:32:21.346Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5721fa912cd01bf9764b8a6e",
+    "text": "Delited to see community effort towards architecture implemenation. yay!",
+    "html": "Delited to see community effort towards architecture implemenation. yay!",
+    "sent": "2016-04-28T11:57:05.375Z",
+    "fromUser": {
+      "id": "5721fa67659847a7aff4f29f",
+      "username": "about-midnight",
+      "displayName": "Dmitriy Filyustin",
+      "url": "/about-midnight",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/3/about-midnight",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/1573101?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/1573101?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57289c9272798bd77be98980",
+    "text": "Hi all i have a question regarding the dagger-mvp-update branch.. I am trying to make a sample for rxjava+retrofit +dagger using the beautiful sample that you guys have provided. I saw for each fragment we have a fragment component and a module for that specific view..I really liked this idea but I was just concerned will this be same when i have 1 activity holding 10 fragment or more.. Also I wanted to ask is there any specific reason for starting the presenter cycle from on resume? ",
+    "html": "Hi all i have a question regarding the dagger-mvp-update branch.. I am trying to make a sample for rxjava+retrofit +dagger using the beautiful sample that you guys have provided. I saw for each fragment we have a fragment component and a module for that specific view..I really liked this idea but I was just concerned will this be same when i have 1 activity holding 10 fragment or more.. Also I wanted to ask is there any specific reason for starting the presenter cycle from on resume? ",
+    "sent": "2016-05-03T12:41:54.654Z",
+    "fromUser": {
+      "id": "57217f65659847a7aff4e2f1",
+      "username": "kdani41",
+      "displayName": "Kartikay Dani",
+      "url": "/kdani41",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/kdani41",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7985118?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7985118?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57289d30474247a946a5c377",
+    "text": "Also a huge thanks to you all for putting your efforts in making this beautiful  sample👍",
+    "html": "Also a huge thanks to you all for putting your efforts in making this beautiful  sample👍",
+    "sent": "2016-05-03T12:44:32.118Z",
+    "fromUser": {
+      "id": "57217f65659847a7aff4e2f1",
+      "username": "kdani41",
+      "displayName": "Kartikay Dani",
+      "url": "/kdani41",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/kdani41",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7985118?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7985118?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5729752bdf1a01ff18fc426d",
+    "text": "👍",
+    "html": "👍",
+    "sent": "2016-05-04T04:06:03.403Z",
+    "fromUser": {
+      "id": "57297509c43b8c6019710b06",
+      "username": "JerryIreya",
+      "displayName": "瓶子里的王国",
+      "url": "/JerryIreya",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/JerryIreya",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/12222395?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/12222395?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 19,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5731ece8a351d8310952a229",
+    "text": "Dagger sample stable!",
+    "html": "Dagger sample stable!",
+    "sent": "2016-05-10T14:15:04.813Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57321c7412fa465406ebab5e",
+    "text": "I need more enlightenment from guys about Android",
+    "html": "I need more enlightenment from guys about Android",
+    "sent": "2016-05-10T17:37:56.836Z",
+    "fromUser": {
+      "id": "570539d9187bb6f0eade2b75",
+      "username": "marvelou",
+      "displayName": "marvelou",
+      "url": "/marvelou",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/marvelou",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/18144603?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/18144603?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57598014064b9e7266f0f442",
+    "text": "First unofficial sample! todo-mvp-fragmentless",
+    "html": "First unofficial sample! todo-mvp-fragmentless",
+    "sent": "2016-06-09T14:41:24.997Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 28,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "575c65dba1be01c01a790b57",
+    "text": "Hey guys – great work on the MVP samples. It's always a great reference to implementing this separation of concerns. \n\nI have a question about the View contract. If the Presenter requires information such as the value of a `EditText` from the View. Should that be exposed in the `View` contract? (e.g. View#getEmailAddress)?",
+    "html": "<p>Hey guys – great work on the MVP samples. It&#39;s always a great reference to implementing this separation of concerns. </p><p>I have a question about the View contract. If the Presenter requires information such as the value of a <code>EditText</code> from the View. Should that be exposed in the <code>View</code> contract? (e.g. View#getEmailAddress)?</p>",
+    "sent": "2016-06-11T19:26:19.954Z",
+    "fromUser": {
+      "id": "575c655dc2f0db084a1d5cd4",
+      "username": "AeroEchelon",
+      "displayName": "Marvin Bernal",
+      "url": "/AeroEchelon",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/AeroEchelon",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/2360095?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/2360095?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 28,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5760b96663ea0987306ae6c1",
+    "text": "@AeroEchelon  I think  view should set a listener to `EditView`, and when `EditView`'s content changed, send this content to Presenter(eg. `view.onEditContentChanged(str)`)",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"AeroEchelon\" class=\"mention\">@AeroEchelon</span>  I think  view should set a listener to <code>EditView</code>, and when <code>EditView</code>&#39;s content changed, send this content to Presenter(eg. <code>view.onEditContentChanged(str)</code>)",
+    "sent": "2016-06-15T02:11:50.448Z",
+    "fromUser": {
+      "id": "54dde71115522ed4b3dbf95b",
+      "username": "Juude",
+      "displayName": "J.D.Song",
+      "url": "/Juude",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Juude",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "AeroEchelon",
+        "userId": "575c655dc2f0db084a1d5cd4",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "576175bc36c83a880205ee8a",
+    "text": "@Juude What if the presenter needs this state data when the content isn't changing? Would it be appropriate to cache this data on demand?",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"Juude\" class=\"mention\">@Juude</span> What if the presenter needs this state data when the content isn&#39;t changing? Would it be appropriate to cache this data on demand?",
+    "sent": "2016-06-15T15:35:24.568Z",
+    "fromUser": {
+      "id": "575c655dc2f0db084a1d5cd4",
+      "username": "AeroEchelon",
+      "displayName": "Marvin Bernal",
+      "url": "/AeroEchelon",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/AeroEchelon",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/2360095?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/2360095?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "Juude",
+        "userId": "54dde71115522ed4b3dbf95b",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5762597052352c840282aef5",
+    "text": "啊哈",
+    "html": "啊哈",
+    "sent": "2016-06-16T07:46:56.699Z",
+    "fromUser": {
+      "id": "5762595cc2f0db084a1e2790",
+      "username": "RUANHAOANDROID",
+      "displayName": "阮皓",
+      "url": "/RUANHAOANDROID",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/RUANHAOANDROID",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10151414?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10151414?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 33,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57625978b8ad3d5d7ee0a878",
+    "text": "大家好",
+    "html": "大家好",
+    "sent": "2016-06-16T07:47:04.611Z",
+    "fromUser": {
+      "id": "5762595cc2f0db084a1e2790",
+      "username": "RUANHAOANDROID",
+      "displayName": "阮皓",
+      "url": "/RUANHAOANDROID",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/RUANHAOANDROID",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10151414?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10151414?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 33,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5762ba0fb8ad3d5d7ee0d0e0",
+    "text": "Any developer who can help me building this library better one .. https://github.com/amitshekhariitbhu/AndroidNetworking",
+    "html": "Any developer who can help me building this library better one .. <a href=\"https://github.com/amitshekhariitbhu/AndroidNetworking\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://github.com/amitshekhariitbhu/AndroidNetworking</a>",
+    "sent": "2016-06-16T14:39:11.209Z",
+    "fromUser": {
+      "id": "57563618c43b8c6019783bda",
+      "username": "amitshekhariitbhu",
+      "displayName": "AMIT SHEKHAR",
+      "url": "/amitshekhariitbhu",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/amitshekhariitbhu",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/9877145?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/9877145?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 35,
+    "urls": [
+      {
+        "url": "https://github.com/amitshekhariitbhu/AndroidNetworking"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "577fe67559cfbd4c5e5095c8",
+    "text": "Hi everyone",
+    "html": "Hi everyone",
+    "sent": "2016-07-08T17:44:21.639Z",
+    "fromUser": {
+      "id": "572cda92c43b8c6019718422",
+      "username": "ccparram",
+      "displayName": "Camilo Parra Mariño",
+      "url": "/ccparram",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/ccparram",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/2968424?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/2968424?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5780a32759cfbd4c5e5853f6",
+    "text": "Hi @ccparram !",
+    "html": "Hi <span data-link-type=\"mention\" data-screen-name=\"ccparram\" class=\"mention\">@ccparram</span> !",
+    "sent": "2016-07-09T07:09:27.203Z",
+    "fromUser": {
+      "id": "562e813716b6c7089cb85477",
+      "username": "LouisCAD",
+      "displayName": "Louis Cognault",
+      "url": "/LouisCAD",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/LouisCAD",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6975237?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6975237?v=3&s=128",
+      "v": 2,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "ccparram",
+        "userId": "572cda92c43b8c6019718422",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57a1ffdc9e85d3e826837322",
+    "text": "Hi, guys\nI wonder if this [picture](https://raw.githubusercontent.com/wiki/googlesamples/android-architecture/images/mvp.png) can be freely used in my github project to show architecture of my app?\nAlso it would be great to hear an answer from @JoseAlcerreca  to be sure.",
+    "html": "Hi, guys<br>I wonder if this <a href=\"https://raw.githubusercontent.com/wiki/googlesamples/android-architecture/images/mvp.png\" rel=\"nofollow\" target=\"_blank\" class=\"link\">picture</a> can be freely used in my github project to show architecture of my app?<br>Also it would be great to hear an answer from <span data-link-type=\"mention\" data-screen-name=\"JoseAlcerreca\" class=\"mention\">@JoseAlcerreca</span>  to be sure.",
+    "sent": "2016-08-03T14:29:48.810Z",
+    "editedAt": "2016-08-03T14:33:12.376Z",
+    "fromUser": {
+      "id": "578d12d4c2f0db084a2389e5",
+      "username": "jydimir",
+      "displayName": "Andrei Lisun",
+      "url": "/jydimir",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/jydimir",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/5711247?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/5711247?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [
+      {
+        "url": "https://raw.githubusercontent.com/wiki/googlesamples/android-architecture/images/mvp.png"
+      }
+    ],
+    "mentions": [
+      {
+        "screenName": "JoseAlcerreca",
+        "userId": "55d4a8b70fc9f982beadeea6",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 2
+  },
+  {
+    "id": "57c7e6aa6efec7117c9bd363",
+    "text": "@AeroEchelon  sorry, I sometimes do it in this way, but I am not sure whether it is best practice",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"AeroEchelon\" class=\"mention\">@AeroEchelon</span>  sorry, I sometimes do it in this way, but I am not sure whether it is best practice",
+    "sent": "2016-09-01T08:28:26.612Z",
+    "fromUser": {
+      "id": "54dde71115522ed4b3dbf95b",
+      "username": "Juude",
+      "displayName": "J.D.Song",
+      "url": "/Juude",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Juude",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "AeroEchelon",
+        "userId": "575c655dc2f0db084a1d5cd4",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57c7e6ba928ae0e7346bb6ef",
+    "text": "d",
+    "html": "d",
+    "sent": "2016-09-01T08:28:42.306Z",
+    "fromUser": {
+      "id": "54dde71115522ed4b3dbf95b",
+      "username": "Juude",
+      "displayName": "J.D.Song",
+      "url": "/Juude",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Juude",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57c7e6dfccfcf7147cae0942",
+    "text": "@AeroEchelon  I sometimes do it this way, but I am not sure if it is best practice.",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"AeroEchelon\" class=\"mention\">@AeroEchelon</span>  I sometimes do it this way, but I am not sure if it is best practice.",
+    "sent": "2016-09-01T08:29:19.296Z",
+    "fromUser": {
+      "id": "54dde71115522ed4b3dbf95b",
+      "username": "Juude",
+      "displayName": "J.D.Song",
+      "url": "/Juude",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Juude",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "AeroEchelon",
+        "userId": "575c655dc2f0db084a1d5cd4",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57c8a7616bf4c26505c40d2b",
+    "text": "@jydimir It's under the same license as everything else in the repo. Should be Apache v2.0 IIRC, so this means yes",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"jydimir\" class=\"mention\">@jydimir</span> It&#39;s under the same license as everything else in the repo. Should be Apache v2.0 IIRC, so this means yes",
+    "sent": "2016-09-01T22:10:41.863Z",
+    "fromUser": {
+      "id": "562e813716b6c7089cb85477",
+      "username": "LouisCAD",
+      "displayName": "Louis Cognault",
+      "url": "/LouisCAD",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/LouisCAD",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/6975237?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/6975237?v=3&s=128",
+      "v": 2,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "jydimir",
+        "userId": "578d12d4c2f0db084a2389e5",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57f3b92029403a416fc613c7",
+    "text": "Hey @amitshekhariitbhu , let's collaborate",
+    "html": "Hey <span data-link-type=\"mention\" data-screen-name=\"amitshekhariitbhu\" class=\"mention\">@amitshekhariitbhu</span> , let&#39;s collaborate",
+    "sent": "2016-10-04T14:13:52.807Z",
+    "fromUser": {
+      "id": "56ea1d5585d51f252ab9397e",
+      "username": "esoxjem",
+      "displayName": "Arun Sasidharan",
+      "url": "/esoxjem",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/esoxjem",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/7837006?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/7837006?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "amitshekhariitbhu",
+        "userId": "57563618c43b8c6019783bda",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57f8aa5070fcb5db0c3c2fe3",
+    "text": "@esoxjem : lets connect brother",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"esoxjem\" class=\"mention\">@esoxjem</span> : lets connect brother",
+    "sent": "2016-10-08T08:12:00.159Z",
+    "fromUser": {
+      "id": "57563618c43b8c6019783bda",
+      "username": "amitshekhariitbhu",
+      "displayName": "AMIT SHEKHAR",
+      "url": "/amitshekhariitbhu",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/amitshekhariitbhu",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/9877145?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/9877145?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "esoxjem",
+        "userId": "56ea1d5585d51f252ab9397e",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57faec6fdfe82a365b0ff560",
+    "text": "Hello world",
+    "html": "Hello world",
+    "sent": "2016-10-10T01:18:39.042Z",
+    "fromUser": {
+      "id": "57fae79dd73408ce4f2d065d",
+      "username": "ybin",
+      "displayName": "ybin",
+      "url": "/ybin",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/ybin",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/365856?v=3&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/365856?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57fce40768f560d80cf69fc6",
+    "text": "hey! why not having each sample on separate folders? instead of using branches?",
+    "html": "hey! why not having each sample on separate folders? instead of using branches?",
+    "sent": "2016-10-11T13:07:19.359Z",
+    "fromUser": {
+      "id": "55e2b8ee0fc9f982beaf0dd0",
+      "username": "alxsimo",
+      "displayName": "Alexandru Simonescu",
+      "url": "/alxsimo",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/alxsimo",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/579465?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/579465?v=4&s=128",
+      "v": 7,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5807cce248292577613c1053",
+    "text": "hey guys",
+    "html": "hey guys",
+    "sent": "2016-10-19T19:43:30.551Z",
+    "fromUser": {
+      "id": "55c05a930fc9f982beac1a53",
+      "username": "johninvictus",
+      "displayName": "john invictus",
+      "url": "/johninvictus",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/3/johninvictus",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/1851789?v=3&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/1851789?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 33,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "581d43de2d4796175f46f493",
+    "text": "hello guys",
+    "html": "hello guys",
+    "sent": "2016-11-05T02:28:46.049Z",
+    "fromUser": {
+      "id": "57622511c2f0db084a1e2055",
+      "username": "DaidongStudio",
+      "displayName": "daidong",
+      "url": "/DaidongStudio",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/DaidongStudio",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12093330?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12093330?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 33,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "58324a84297a180b4f1bb407",
+    "text": "hello world !",
+    "html": "hello world !",
+    "sent": "2016-11-21T01:14:44.219Z",
+    "fromUser": {
+      "id": "5552b4e215522ed4b3e04cb7",
+      "username": "healthy-tree",
+      "displayName": "Kevin Lee",
+      "url": "/healthy-tree",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/healthy-tree",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1058463?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1058463?v=4&s=128",
+      "v": 12,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "584b596df666c5a138f35c7b",
+    "text": "hello world!",
+    "html": "hello world!",
+    "sent": "2016-12-10T01:25:01.551Z",
+    "fromUser": {
+      "id": "5660fb5a16b6c7089cbd5234",
+      "username": "WeiWW",
+      "displayName": "Ann",
+      "url": "/WeiWW",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/WeiWW",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/5183316?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/5183316?v=3&s=128",
+      "v": 6,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 31,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "586140270730ce69370fdfd2",
+    "text": "hello",
+    "html": "hello",
+    "sent": "2016-12-26T16:07:03.583Z",
+    "fromUser": {
+      "id": "58613971d73408ce4f3f637e",
+      "username": "joelan",
+      "displayName": "CrazyJoe",
+      "url": "/joelan",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/joelan",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/8230113?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/8230113?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "58abc83b00c00c3d4f67423f",
+    "text": "would it be better to use 'onXXXX'  in contract, for example we can name  `onLoading` instead of `setLoadingIndicator `.In this way we do not need to know what the  `View` do in `Presenter`, we just need to know  what happened in `Presenter`.",
+    "html": "would it be better to use &#39;onXXXX&#39;  in contract, for example we can name  <code>onLoading</code> instead of <code>setLoadingIndicator</code>.In this way we do not need to know what the  <code>View</code> do in <code>Presenter</code>, we just need to know  what happened in <code>Presenter</code>.",
+    "sent": "2017-02-21T04:55:23.987Z",
+    "fromUser": {
+      "id": "54dde71115522ed4b3dbf95b",
+      "username": "Juude",
+      "displayName": "J.D.Song",
+      "url": "/Juude",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/Juude",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/2675838?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 35,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "58c7b25f00c00c3d4f05017a",
+    "text": "hello ",
+    "html": "hello ",
+    "sent": "2017-03-14T09:05:35.875Z",
+    "fromUser": {
+      "id": "56f213bd85d51f252aba4a66",
+      "username": "leov1",
+      "displayName": "leonardo",
+      "url": "/leov1",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/leov1",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7077687?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7077687?v=3&s=128",
+      "v": 2,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 35,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "58d1824ab809ca5f4a6a9159",
+    "text": "@leov1 Hello",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"leov1\" class=\"mention\">@leov1</span> Hello",
+    "sent": "2017-03-21T19:43:06.325Z",
+    "fromUser": {
+      "id": "55b7f8540fc9f982beab519a",
+      "username": "oscarcpozas",
+      "displayName": "Oscar",
+      "url": "/oscarcpozas",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/oscarcpozas",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3399621?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3399621?v=4&s=128",
+      "v": 61,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 38,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "leov1",
+        "userId": "56f213bd85d51f252aba4a66",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "58d5c7db7ea420cc42019e95",
+    "text": "hi",
+    "html": "hi",
+    "sent": "2017-03-25T01:28:59.720Z",
+    "fromUser": {
+      "id": "56f213bd85d51f252aba4a66",
+      "username": "leov1",
+      "displayName": "leonardo",
+      "url": "/leov1",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/3/leov1",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/7077687?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/7077687?v=3&s=128",
+      "v": 2,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 37,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5912d6f25c89dc536193a28d",
+    "text": "hello world!",
+    "html": "hello world!",
+    "sent": "2017-05-10T09:01:38.168Z",
+    "fromUser": {
+      "id": "5912d49ad73408ce4f5e65cd",
+      "username": "linhengv1",
+      "displayName": "linhengv1",
+      "url": "/linhengv1",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/linhengv1",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/15623009?v=3&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/15623009?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 37,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "591c18c283cb5db0733d411a",
+    "text": "google I/O,any body will be there?",
+    "html": "google I/O,any body will be there?",
+    "sent": "2017-05-17T09:32:50.061Z",
+    "fromUser": {
+      "id": "590acc0dd73408ce4f5cd456",
+      "username": "wangfuda",
+      "displayName": "wangfuda",
+      "url": "/wangfuda",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/wangfuda",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3206178?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3206178?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 33,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "591c1995631b8e4e61e48b3b",
+    "text": ">I/O",
+    "html": "<blockquote>\nI/O</blockquote>\n",
+    "sent": "2017-05-17T09:36:21.786Z",
+    "fromUser": {
+      "id": "590acc0dd73408ce4f5cd456",
+      "username": "wangfuda",
+      "displayName": "wangfuda",
+      "url": "/wangfuda",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/wangfuda",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/3206178?v=3&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/3206178?v=3&s=128",
+      "v": 1,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 34,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5977ea8b45fc670746c891e3",
+    "text": "## hello World , Is there any body ?",
+    "html": "<h2>hello World , Is there any body ?</h2>\n",
+    "sent": "2017-07-26T01:04:11.276Z",
+    "fromUser": {
+      "id": "5552b4e215522ed4b3e04cb7",
+      "username": "healthy-tree",
+      "displayName": "Kevin Lee",
+      "url": "/healthy-tree",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/healthy-tree",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/1058463?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/1058463?v=4&s=128",
+      "v": 12,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 26,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989e9ff210ac269206526bc",
+    "text": "Oh no, no activity :(",
+    "html": "Oh no, no activity :(",
+    "sent": "2017-08-08T16:42:39.501Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 28,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989ea59210ac26920652931",
+    "text": "I think Room is broken",
+    "html": "I think Room is broken",
+    "sent": "2017-08-08T16:44:09.330Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 30,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989ea7b614889d4752ce62d",
+    "text": "The auto-generated DAO implementation is trying to return a variable `_return` that is never defined.",
+    "html": "The auto-generated DAO implementation is trying to return a variable <code>_return</code> that is never defined.",
+    "sent": "2017-08-08T16:44:43.036Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 30,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989eaf92723db8d5e86d617",
+    "text": "Simple dao method\n```\n  @Query(\"SELECT * FROM Channels\")\n  List<Channel> getChannels();\n```\n\nAuto-generated implementation\n```\n  @Override\n  public List<Channel> getChannels() {\n    final String _sql = \"SELECT * FROM Channels\";\n    final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);\n    final Cursor _cursor = __db.query(_statement);\n    try {\n      return _result;\n    } finally {\n      _cursor.close();\n      _statement.release();\n    }\n  }\n```",
+    "html": "<p>Simple dao method</p><pre><code>  <span class=\"annotation\">@Query</span>(<span class=\"string\">\"SELECT * FROM Channels\"</span>)\n  <span class=\"built_in\">List</span>&lt;Channel&gt; getChannels();</code></pre><p>Auto-generated implementation</p><pre><code>  <span class=\"annotation\">@Override</span>\n  public <span class=\"built_in\">List</span>&lt;Channel&gt; getChannels() {\n    <span class=\"keyword\">final</span> <span class=\"built_in\">String</span> _sql = <span class=\"string\">\"SELECT * FROM Channels\"</span>;\n    <span class=\"keyword\">final</span> RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, <span class=\"number\">0</span>);\n    <span class=\"keyword\">final</span> Cursor _cursor = __db.query(_statement);\n    <span class=\"keyword\">try</span> {\n      <span class=\"keyword\">return</span> _result;\n    } <span class=\"keyword\">finally</span> {\n      _cursor.close();\n      _statement.release();\n    }\n  }</code></pre>",
+    "sent": "2017-08-08T16:46:49.816Z",
+    "editedAt": "2017-08-08T16:47:20.945Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 30,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 2
+  },
+  {
+    "id": "5989eb354bcd78af562543a6",
+    "text": "_result is never defined and therefor causes an error when trying to build the app",
+    "html": "_result is never defined and therefor causes an error when trying to build the app",
+    "sent": "2017-08-08T16:47:49.422Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989fd111c8697534a9c9de2",
+    "text": "Got it working.,..",
+    "html": "Got it working.,..",
+    "sent": "2017-08-08T18:04:01.623Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5989fd1dee5c9a4c5fa0dd1f",
+    "text": "Was just missing some annotations and such in my entity files",
+    "html": "Was just missing some annotations and such in my entity files",
+    "sent": "2017-08-08T18:04:13.130Z",
+    "fromUser": {
+      "id": "559de69315522ed4b3e3b033",
+      "username": "YeomansIII",
+      "displayName": "Jason Yeomans",
+      "url": "/YeomansIII",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/YeomansIII",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/3809115?v=4&s=128",
+      "v": 35,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 32,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b3b46b53d8f71623d583a80",
+    "text": "Hi can someone help me regarding binding live data with databinding. I am using reterofit adapter to bind livedata directly to view model. But I need to show/hide progress bar. How to do that with live data",
+    "html": "Hi can someone help me regarding binding live data with databinding. I am using reterofit adapter to bind livedata directly to view model. But I need to show/hide progress bar. How to do that with live data",
+    "sent": "2018-07-03T09:49:41.590Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5a0320d2f0934551d33d8b",
+    "text": "@sangeetsuresh maybe using a callback?",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"sangeetsuresh\" class=\"mention\">@sangeetsuresh</span> maybe using a callback?",
+    "sent": "2018-07-26T17:21:36.223Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "sangeetsuresh",
+        "userId": "5b2f9133d73408ce4f9e6b2e",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5a03396dd1ab572340acf6",
+    "text": "@sangeetsuresh are you using the MVVM architecture?",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"sangeetsuresh\" class=\"mention\">@sangeetsuresh</span> are you using the MVVM architecture?",
+    "sent": "2018-07-26T17:22:01.556Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "sangeetsuresh",
+        "userId": "5b2f9133d73408ce4f9e6b2e",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5a13df46235249cd546366",
+    "text": "I got it",
+    "html": "I got it",
+    "sent": "2018-07-26T18:33:03.461Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5a13ecbe87b449ce57c20e",
+    "text": "Yes I am using MVVM",
+    "html": "Yes I am using MVVM",
+    "sent": "2018-07-26T18:33:16.862Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b1d301be9bb57bcc9f437",
+    "text": "Hi, can anybody help me on how to inject repository into my view model class?",
+    "html": "Hi, can anybody help me on how to inject repository into my view model class?",
+    "sent": "2018-07-27T13:25:04.653Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b1e9dee7b230b446fb08d",
+    "text": "https://github.com/rohitsingh14101992/livedatamvvm",
+    "html": "<a href=\"https://github.com/rohitsingh14101992/livedatamvvm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/rohitsingh14101992/livedatamvvm</a>",
+    "sent": "2018-07-27T13:31:09.493Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [
+      {
+        "url": "https://github.com/rohitsingh14101992/livedatamvvm"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b1ea35301255724cce0d3",
+    "text": "Please have a look",
+    "html": "Please have a look",
+    "sent": "2018-07-27T13:31:15.602Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b20b0a31e386158b79c4a",
+    "text": "thanks! do you have a java example?",
+    "html": "thanks! do you have a java example?",
+    "sent": "2018-07-27T13:40:00.750Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b20d3db8bd24550b8a121",
+    "text": "my repository lives in my application level, and I'm not sure how to access my application inside of view model",
+    "html": "my repository lives in my application level, and I&#39;m not sure how to access my application inside of view model",
+    "sent": "2018-07-27T13:40:35.926Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b20e846235249cd57fdb7",
+    "text": "I did sub class AndroidViewModel but doesn't work..",
+    "html": "I did sub class AndroidViewModel but doesn&#39;t work..",
+    "sent": "2018-07-27T13:40:56.577Z",
+    "fromUser": {
+      "id": "5a8b8500d73408ce4f8deca9",
+      "username": "brendoncheung",
+      "displayName": "Aleph",
+      "url": "/brendoncheung",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/brendoncheung",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/18616565?v=4&s=128",
+      "v": 4,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b5b3810db8bd24550b932b8",
+    "text": "Repository can be injected using dagger",
+    "html": "Repository can be injected using dagger",
+    "sent": "2018-07-27T15:19:44.930Z",
+    "fromUser": {
+      "id": "5b2f9133d73408ce4f9e6b2e",
+      "username": "sangeetsuresh",
+      "displayName": "sangeetsuresh",
+      "url": "/sangeetsuresh",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/sangeetsuresh",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/37825396?v=4&s=128",
+      "v": 2,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b817a21f86b741b05c05b22",
+    "text": "@brendoncheung  yep as  @sangeetsuresh  explain , repository can be inject using dagger , your ViewModel or Interactor use reference on it s interface and Dagger will provide an implementation of it later ( Remote or Local or somethings else)",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"brendoncheung\" class=\"mention\">@brendoncheung</span>  yep as  <span data-link-type=\"mention\" data-screen-name=\"sangeetsuresh\" class=\"mention\">@sangeetsuresh</span>  explain , repository can be inject using dagger , your ViewModel or Interactor use reference on it s interface and Dagger will provide an implementation of it later ( Remote or Local or somethings else)",
+    "sent": "2018-08-25T15:47:45.845Z",
+    "fromUser": {
+      "id": "5b8178cbd73408ce4fa5c98f",
+      "username": "issamux",
+      "displayName": "issamux",
+      "url": "/issamux",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/issamux",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/195905?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/195905?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "brendoncheung",
+        "userId": "5a8b8500d73408ce4f8deca9",
+        "userIds": []
+      },
+      {
+        "screenName": "sangeetsuresh",
+        "userId": "5b2f9133d73408ce4f9e6b2e",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5b8e6d134be56c5918dda13a",
+    "text": "Hi",
+    "html": "Hi",
+    "sent": "2018-09-04T11:31:31.701Z",
+    "fromUser": {
+      "id": "59426fd2d73408ce4f67842c",
+      "username": "darwinvtomy",
+      "displayName": "DARWIN V TOMY",
+      "url": "/darwinvtomy",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/darwinvtomy",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/10060131?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/10060131?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bdbb82893a2f3bed3abe",
+    "text": "Hey everyone! I'm using travis ci and with the latest version of proguard the log length is just so long the travis ci job terminates.",
+    "html": "Hey everyone! I&#39;m using travis ci and with the latest version of proguard the log length is just so long the travis ci job terminates.",
+    "sent": "2018-10-16T10:30:19.088Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bdc764cfc273f9d5a5a1",
+    "text": "with the message \"The job exceeded the maximum log length, and has been terminated.\"",
+    "html": "with the message &quot;The job exceeded the maximum log length, and has been terminated.&quot;",
+    "sent": "2018-10-16T10:30:31.861Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bdd01e23486b93ca4da3",
+    "text": "Anyone else face this? I searched but couldn't find a way to reduce proguards verbosity",
+    "html": "Anyone else face this? I searched but couldn&#39;t find a way to reduce proguards verbosity",
+    "sent": "2018-10-16T10:30:40.759Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bf2964cfc273f9d5ae68",
+    "text": "@shalzz Sounds like a build-timeout. How long does your build take before failing?  Check this out: https://docs.travis-ci.com/user/customizing-the-build#Build-Timeouts",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"shalzz\" class=\"mention\">@shalzz</span> Sounds like a build-timeout. How long does your build take before failing?  Check this out: <a href=\"https://docs.travis-ci.com/user/customizing-the-build#Build-Timeouts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://docs.travis-ci.com/user/customizing-the-build#Build-Timeouts</a>",
+    "sent": "2018-10-16T10:36:25.076Z",
+    "fromUser": {
+      "id": "5bc12d49d73408ce4fab4a25",
+      "username": "dimitrisCBR",
+      "displayName": "Dimitrios Tsigouris",
+      "url": "/dimitrisCBR",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/dimitrisCBR",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12274068?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12274068?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 17,
+    "urls": [
+      {
+        "url": "https://docs.travis-ci.com/user/customizing-the-build#Build-Timeouts"
+      }
+    ],
+    "mentions": [
+      {
+        "screenName": "shalzz",
+        "userId": "58e7403dd73408ce4f56ba89",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bfa3e65a634336e87c6d",
+    "text": "@dimitrisCBR Its not a build timeout rather a log length limit:",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"dimitrisCBR\" class=\"mention\">@dimitrisCBR</span> Its not a build timeout rather a log length limit:",
+    "sent": "2018-10-16T10:38:27.469Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "dimitrisCBR",
+        "userId": "5bc12d49d73408ce4fab4a25",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bfa638449236614a048a",
+    "text": "https://docs.travis-ci.com/user/common-build-problems/#log-length-exceeded",
+    "html": "<a href=\"https://docs.travis-ci.com/user/common-build-problems/#log-length-exceeded\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://docs.travis-ci.com/user/common-build-problems/#log-length-exceeded</a>",
+    "sent": "2018-10-16T10:38:30.635Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [
+      {
+        "url": "https://docs.travis-ci.com/user/common-build-problems/#log-length-exceeded"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bfd4c08b8b306721f78c",
+    "text": "The proguard just spams the build output with class info which I don't remember it doing before only recently",
+    "html": "The proguard just spams the build output with class info which I don&#39;t remember it doing before only recently",
+    "sent": "2018-10-16T10:39:16.053Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 18,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5bfee1c100a4f2994c873",
+    "text": "Here is my build log: https://api.travis-ci.com/v3/job/152020741/log.txt?log.token=XjZwCfmUcEwYxA4aGCXUTw",
+    "html": "Here is my build log: <a href=\"https://api.travis-ci.com/v3/job/152020741/log.txt?log.token=XjZwCfmUcEwYxA4aGCXUTw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://api.travis-ci.com/v3/job/152020741/log.txt?log.token=XjZwCfmUcEwYxA4aGCXUTw</a>",
+    "sent": "2018-10-16T10:39:42.195Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 19,
+    "urls": [
+      {
+        "url": "https://api.travis-ci.com/v3/job/152020741/log.txt?log.token=XjZwCfmUcEwYxA4aGCXUTw"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5c052c08b8b306721fb70",
+    "text": "Mainly with ProGuard, version 6.0.3",
+    "html": "Mainly with ProGuard, version 6.0.3",
+    "sent": "2018-10-16T10:41:22.467Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 19,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5c070c7bf7c36621d55a8",
+    "text": "@dimitrisCBR Is there a way I can tweak the proguards verbosity?",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"dimitrisCBR\" class=\"mention\">@dimitrisCBR</span> Is there a way I can tweak the proguards verbosity?",
+    "sent": "2018-10-16T10:41:52.887Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 20,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "dimitrisCBR",
+        "userId": "5bc12d49d73408ce4fab4a25",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5c259e65a634336e88cd0",
+    "text": "@shalzz The only thing I can think of, is removing \" -verbose” and “-printconfiguration\" option from your proguard-rules. Take a look here: https://www.guardsquare.com/en/products/proguard/manual/usage#generaloptions",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"shalzz\" class=\"mention\">@shalzz</span> The only thing I can think of, is removing &quot; -verbose” and “-printconfiguration&quot; option from your proguard-rules. Take a look here: <a href=\"https://www.guardsquare.com/en/products/proguard/manual/usage#generaloptions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://www.guardsquare.com/en/products/proguard/manual/usage#generaloptions</a>",
+    "sent": "2018-10-16T10:50:01.974Z",
+    "fromUser": {
+      "id": "5bc12d49d73408ce4fab4a25",
+      "username": "dimitrisCBR",
+      "displayName": "Dimitrios Tsigouris",
+      "url": "/dimitrisCBR",
+      "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/dimitrisCBR",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/12274068?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/12274068?v=4&s=128",
+      "v": 8,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 21,
+    "urls": [
+      {
+        "url": "https://www.guardsquare.com/en/products/proguard/manual/usage#generaloptions"
+      }
+    ],
+    "mentions": [
+      {
+        "screenName": "shalzz",
+        "userId": "58e7403dd73408ce4f56ba89",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bc5c38bef4afc4f28815f16",
+    "text": "@dimitrisCBR Ah! yes, thanks. This is exactly what I was looking for.  Somehow I just kept thinking there would be an environment variable that I'm missing ...",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"dimitrisCBR\" class=\"mention\">@dimitrisCBR</span> Ah! yes, thanks. This is exactly what I was looking for.  Somehow I just kept thinking there would be an environment variable that I&#39;m missing ...",
+    "sent": "2018-10-16T10:55:07.646Z",
+    "fromUser": {
+      "id": "58e7403dd73408ce4f56ba89",
+      "username": "shalzz",
+      "displayName": "Shaleen Jain",
+      "url": "/shalzz",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/4/shalzz",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/3907269?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 23,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "dimitrisCBR",
+        "userId": "5bc12d49d73408ce4fab4a25",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bcad6ea435c2a518ed66b47",
+    "text": "Hi everyone , have you already used those components : viewmodel contentproviders and activity bind to service ",
+    "html": "Hi everyone , have you already used those components : viewmodel contentproviders and activity bind to service ",
+    "sent": "2018-10-20T07:19:06.069Z",
+    "fromUser": {
+      "id": "5b8178cbd73408ce4fa5c98f",
+      "username": "issamux",
+      "displayName": "issamux",
+      "url": "/issamux",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/issamux",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/195905?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/195905?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 22,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bcad745c7bf7c36623e1cd9",
+    "text": "In the same project i mean ...is there some good pratice for using vm service and loader with contentproviders... thanks ",
+    "html": "In the same project i mean ...is there some good pratice for using vm service and loader with contentproviders... thanks ",
+    "sent": "2018-10-20T07:20:37.984Z",
+    "fromUser": {
+      "id": "5b8178cbd73408ce4fa5c98f",
+      "username": "issamux",
+      "displayName": "issamux",
+      "url": "/issamux",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/issamux",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/195905?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/195905?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 22,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bcad79938449236616acf9d",
+    "text": "Activity use viewmodel ... activity bind to service and use a combination of service method and viewmodel to do job",
+    "html": "Activity use viewmodel ... activity bind to service and use a combination of service method and viewmodel to do job",
+    "sent": "2018-10-20T07:22:01.078Z",
+    "fromUser": {
+      "id": "5b8178cbd73408ce4fa5c98f",
+      "username": "issamux",
+      "displayName": "issamux",
+      "url": "/issamux",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/issamux",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/195905?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/195905?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 22,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5bcad7f06e5a401c2d9ea31c",
+    "text": "What about using contentprovider in a clean architecture android project ",
+    "html": "What about using contentprovider in a clean architecture android project ",
+    "sent": "2018-10-20T07:23:28.679Z",
+    "fromUser": {
+      "id": "5b8178cbd73408ce4fa5c98f",
+      "username": "issamux",
+      "displayName": "issamux",
+      "url": "/issamux",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/issamux",
+      "avatarUrlSmall": "https://avatars1.githubusercontent.com/u/195905?v=4&s=60",
+      "avatarUrlMedium": "https://avatars1.githubusercontent.com/u/195905?v=4&s=128",
+      "v": 3,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 22,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5c90945efcaf7b5f73da9389",
+    "text": "Hello all ^^, I am currently developing an Android application in which I need a Bluetooth connection to a HC-05 module. For this I use a library (https://github.com/akexorcist/Android-BluetoothSPPLibrary). I had nice change my code in every way.... nothing works and I have the following errors, I do not understand how I can solve this... Despite much research as much on the forums as well as on the technical Android doc, impossible to find a solution that works......\nI enclose the various pages of code: (https://gist.github.com/69VR69/abc9a6efb513255f109b2a2983670bab\nAND https:/gist. github. com/69VR69/da04d7803686965e4c2f2347d2729c24)\n2019-03-17 19:09:16,948 18348-18348/? D/bluetooth2:... Connection error cause: read failed, plug can be closed or timeout, playback backward:-1...\n2019-03-17 19:13:40,154 20027-20027/com. example. Android. beam D/bluetooth2:... Connection error cause: read failed, socket can be closed or timeout, read ret:-1...",
+    "html": "Hello all ^^, I am currently developing an Android application in which I need a Bluetooth connection to a HC-05 module. For this I use a library (<a href=\"https://github.com/akexorcist/Android-BluetoothSPPLibrary\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://github.com/akexorcist/Android-BluetoothSPPLibrary</a>). I had nice change my code in every way.... nothing works and I have the following errors, I do not understand how I can solve this... Despite much research as much on the forums as well as on the technical Android doc, impossible to find a solution that works......<br>I enclose the various pages of code: (<a href=\"https://gist.github.com/69VR69/abc9a6efb513255f109b2a2983670bab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gist.github.com/69VR69/abc9a6efb513255f109b2a2983670bab</a><br>AND https:/gist. github. com/69VR69/da04d7803686965e4c2f2347d2729c24)<br>2019-03-17 19:09:16,948 18348-18348/? D/bluetooth2:... Connection error cause: read failed, plug can be closed or timeout, playback backward:-1...<br>2019-03-17 19:13:40,154 20027-20027/com. example. Android. beam D/bluetooth2:... Connection error cause: read failed, socket can be closed or timeout, read ret:-1...",
+    "sent": "2019-03-19T07:03:58.562Z",
+    "fromUser": {
+      "id": "5c51d654d73408ce4fb66231",
+      "username": "69VR69",
+      "displayName": "69VR69",
+      "url": "/69VR69",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/69VR69",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/44296242?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/44296242?v=4&s=128",
+      "v": 7,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 9,
+    "urls": [
+      {
+        "url": "https://github.com/akexorcist/Android-BluetoothSPPLibrary"
+      },
+      {
+        "url": "https://gist.github.com/69VR69/abc9a6efb513255f109b2a2983670bab"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5c91c05149fdaa0d81e39536",
+    "text": "Any people have a solution ? please ^^",
+    "html": "Any people have a solution ? please ^^",
+    "sent": "2019-03-20T04:23:45.203Z",
+    "fromUser": {
+      "id": "5c51d654d73408ce4fb66231",
+      "username": "69VR69",
+      "displayName": "69VR69",
+      "url": "/69VR69",
+      "avatarUrl": "https://avatars-01.gitter.im/gh/uv/4/69VR69",
+      "avatarUrlSmall": "https://avatars2.githubusercontent.com/u/44296242?v=4&s=60",
+      "avatarUrlMedium": "https://avatars2.githubusercontent.com/u/44296242?v=4&s=128",
+      "v": 7,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 9,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "5cf8e9124dfb4240048b40b3",
+    "text": "Hi",
+    "html": "Hi",
+    "sent": "2019-06-06T10:21:06.052Z",
+    "fromUser": {
+      "id": "577d2c02c2f0db084a21bdae",
+      "username": "chanjungkim",
+      "displayName": "Chanjung Kim",
+      "url": "/chanjungkim",
+      "avatarUrl": "https://avatars-02.gitter.im/gh/uv/4/chanjungkim",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/19689773?v=4&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/19689773?v=4&s=128",
+      "v": 16,
+      "gv": "4"
+    },
+    "unread": false,
+    "readBy": 7,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1ddce4a8384a1bbd988e",
+    "text": "there’s never enough chats",
+    "html": "there’s never enough chats",
+    "sent": "2016-03-31T12:53:48.627Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1e2a8d2a72471b7bc8ab",
+    "text": ":+1: ",
+    "html": ":+1: ",
+    "sent": "2016-03-31T12:55:06.916Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1e2cbbffcc665faae3c3",
+    "text": "ah nice",
+    "html": "ah nice",
+    "sent": "2016-03-31T12:55:08.796Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1e5e8f5147e119f21fff",
+    "text": "https://github.com/googlesamples/android-architecture/commit/ea82283da56cd03207232c7b590ca2efb589ec30",
+    "html": "<span data-link-type=\"commit\" data-commit-sha=\"ea82283da56cd03207232c7b590ca2efb589ec30\" data-commit-repo=\"googlesamples/android-architecture\" class=\"commit\">googlesamples/android-architecture@ea82283</span>",
+    "sent": "2016-03-31T12:55:58.046Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1e5e8d2a72471b7bc8be",
+    "text": "all in",
+    "html": "all in",
+    "sent": "2016-03-31T12:55:58.285Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1e7611ea211749c38182",
+    "text": "Oh turns out I wasn't logged in, or something.",
+    "html": "Oh turns out I wasn&#39;t logged in, or something.",
+    "sent": "2016-03-31T12:56:22.210Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd1ea0e4a8384a1bbd98c0",
+    "text": "There's something wrong with the imports order.... no surprise there. We should distribute the style with the project",
+    "html": "There&#39;s something wrong with the imports order.... no surprise there. We should distribute the style with the project",
+    "sent": "2016-03-31T12:57:04.133Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd22fcd9b73e635f67f7b8",
+    "text": ".idea folder",
+    "html": ".idea folder",
+    "sent": "2016-03-31T13:15:40.695Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd230176b6f9de194cdb07",
+    "text": "with the code style",
+    "html": "with the code style",
+    "sent": "2016-03-31T13:15:45.490Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd325f8f5147e119f22782",
+    "text": "https://www.jetbrains.com/help/idea/2016.1/synchronizing-and-sharing-settings.html",
+    "html": "<a href=\"https://www.jetbrains.com/help/idea/2016.1/synchronizing-and-sharing-settings.html\" rel=\"nofollow\" target=\"_blank\" class=\"link\">https://www.jetbrains.com/help/idea/2016.1/synchronizing-and-sharing-settings.html</a>",
+    "sent": "2016-03-31T14:21:19.919Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [
+      {
+        "url": "https://www.jetbrains.com/help/idea/2016.1/synchronizing-and-sharing-settings.html"
+      }
+    ],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd3267d9b73e635f67fdc1",
+    "text": "@JoseAlcerreca take a look at that",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"JoseAlcerreca\" class=\"mention\">@JoseAlcerreca</span> take a look at that",
+    "sent": "2016-03-31T14:21:27.948Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "JoseAlcerreca",
+        "userId": "55d4a8b70fc9f982beadeea6",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd326ee4a8384a1bbda020",
+    "text": "is Stephan going to do it?",
+    "html": "is Stephan going to do it?",
+    "sent": "2016-03-31T14:21:34.566Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd3781bbffcc665faaedb6",
+    "text": "I'm basically waiting for the AndroidStyle.xml file to be stable.  I've seen changes in the internal one and static imports keep jumping up and down...",
+    "html": "I&#39;m basically waiting for the AndroidStyle.xml file to be stable.  I&#39;ve seen changes in the internal one and static imports keep jumping up and down...",
+    "sent": "2016-03-31T14:43:13.766Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd37978d2a72471b7bd2b0",
+    "text": "does anyone have a preference?",
+    "html": "does anyone have a preference?",
+    "sent": "2016-03-31T14:43:35.792Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fd39d276b6f9de194ce52b",
+    "text": "the sooner we have that in the repo the better, otherwise people will start opening PR not following the code style",
+    "html": "the sooner we have that in the repo the better, otherwise people will start opening PR not following the code style",
+    "sent": "2016-03-31T14:53:06.677Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "56fe4185d39de41b495f9fae",
+    "text": "GitHub integration is working ----->",
+    "html": "GitHub integration is working -----&gt;",
+    "sent": "2016-04-01T09:38:13.236Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 1,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57026597d39de41b496058b4",
+    "text": "Do you guys think we should add a tablet layout to all samples or simply make a new variant like `todo-mvp-tablet`? A tablet layout was one of the reasons to use fragments so it makes sense everywhere. On the other hand it would make development of new variants harder.",
+    "html": "Do you guys think we should add a tablet layout to all samples or simply make a new variant like <code>todo-mvp-tablet</code>? A tablet layout was one of the reasons to use fragments so it makes sense everywhere. On the other hand it would make development of new variants harder.",
+    "sent": "2016-04-04T13:01:11.975Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 14,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570265c5d478c81e2cbcd86c",
+    "text": "I think tablet should be everywhere",
+    "html": "I think tablet should be everywhere",
+    "sent": "2016-04-04T13:01:57.224Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 14,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570265dabbffcc665fabea3f",
+    "text": "otherwise we should remove all the fragment references and add a new one with them",
+    "html": "otherwise we should remove all the fragment references and add a new one with them",
+    "sent": "2016-04-04T13:02:18.742Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 14,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "570265e611ea211749c4869c",
+    "text": "`mvp-fragments`",
+    "html": "<code>mvp-fragments</code>",
+    "sent": "2016-04-04T13:02:30.110Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 14,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57027293d39de41b49605d23",
+    "text": "@JoseAlcerreca what is GitHub showing here?",
+    "html": "<span data-link-type=\"mention\" data-screen-name=\"JoseAlcerreca\" class=\"mention\">@JoseAlcerreca</span> what is GitHub showing here?",
+    "sent": "2016-04-04T13:56:35.528Z",
+    "fromUser": {
+      "id": "529c6d6fed5ab0b3bf04dbb3",
+      "username": "malmstein",
+      "displayName": "David González",
+      "url": "/malmstein",
+      "avatarUrl": "https://avatars-04.gitter.im/gh/uv/3/malmstein",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/531613?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/531613?v=3&s=128",
+      "v": 3,
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [
+      {
+        "screenName": "JoseAlcerreca",
+        "userId": "55d4a8b70fc9f982beadeea6",
+        "userIds": []
+      }
+    ],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  },
+  {
+    "id": "57028464d9b73e635f6906df",
+    "text": "commits, comments, issues...",
+    "html": "commits, comments, issues...",
+    "sent": "2016-04-04T15:12:36.557Z",
+    "fromUser": {
+      "id": "55d4a8b70fc9f982beadeea6",
+      "username": "JoseAlcerreca",
+      "displayName": "JoseAlcerreca",
+      "url": "/JoseAlcerreca",
+      "avatarUrl": "https://avatars-03.gitter.im/gh/uv/3/JoseAlcerreca",
+      "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/609125?v=3&s=60",
+      "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/609125?v=3&s=128",
+      "gv": "3"
+    },
+    "unread": false,
+    "readBy": 13,
+    "urls": [],
+    "mentions": [],
+    "issues": [],
+    "meta": [],
+    "v": 1
+  }
+]
