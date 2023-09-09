@@ -14,7 +14,8 @@ Data available:
   - "GitterHQ.rar" - json file was compressed due to its size
   - "Laravel.rar" - json file was compressed due to its size
 - "stopwords_list": Customized list of stop words
-- "topic": Topics obtained with each combination of model and corpus (both lemmatized and stemmed corpora)
-- "intrusion_tasks.csv": Results of the survey for the Intrusion Tasks
-- "topicnaming_tasks.csv": Results of the survey for the Topic Naming Tasks
-- "scores_intrinsicmetrics.csv": Scores of topic coherence metrics (at topic and model levels)
+- "topics_sttm_results.csv": Topics obtained with each combination of model and corpus (both lemmatized and stemmed corpora)
+- "intrusion_tasks.csv": Results of the survey for the Intrusion Tasks and its participants' background
+- "topicnaming_tasks.csv": Results of the survey for the Topic Naming Tasks and its participants' background
+- "intrinsic_metrics.csv": Scores of topic coherence metrics at topic level ('average' represents the score at model level)
+- "topics_themes_chatrooms.csv": Results of the exercise described in Section 5.2 with the topics and themes identified in each of the 87 Gitter chat rooms.
