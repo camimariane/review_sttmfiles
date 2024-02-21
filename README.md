@@ -19,3 +19,4 @@ Data available:
 - "topicnaming_tasks.csv": Results of the survey for the Topic Naming Tasks and its participants' background
 - "intrinsic_metrics.csv": Scores of topic coherence metrics at topic level ('average' represents the score at model level)
 - "topics_themes_chatrooms.csv": Results of the exercise described in Section 5.2 with the topics and themes identified in each of the 87 Gitter chat rooms.
+- "sensitivity_analysis": Results of a smaller-scale sensitivity analysis to check the impact of the number of topics on the main findings of the paper. 
