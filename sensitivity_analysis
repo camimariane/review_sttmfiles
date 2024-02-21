@@ -1,0 +1,21 @@
+* Sensitivity analysis on the Number of Topics *
+
+We performed a small-scale sensitivity analysis to understand the impact of the number of topics on the scores of our automated coherence metrics. We did not include the human-based metrics to this analysis since we did not have access to the original study participants anymore (due to the anonymous participants). 
+
+We modeled 8, 9, 10 (number of topics used in the manuscript), 11 and 12 topics with: 
+- Five models: grid-searched LDA, BTM, DMM, GPU-PDMM and WNTM; and
+- Three corpora: Android_lemma, Jenkinsci_lemma and Flutter_lemma (corpora used in both automated and human-based topic quality assessments in our manuscript). 
+Then, we calculated our four automated coherence metrics (ca, cp, cnpmi and umass) with the resulting topics.
+
+To identify if there is a statistically significant difference between the scores of our automated metrics considering different numbers of topics, we used Kruskal-Wallis test, and post hoc Dunn test with Bonferroni correction. We used Python and the libraries spicy and scikit-learn to perform statistical tests.
+We did split the sensitivity analysis into four to understand the impact of the number of topics on the scores of each of our automated metrics (i.e., we ran a Kruskal-Wallis test with all ca scores, then a Kruskal-Wallis test with all cp scores and so on). For each metric, we grouped scores by the number of topics (see an example of these groups in Table 1 with ca metric scores). 
+
+The results of the four sensitivity analyses are:
+- ca: KruskalResult(statistic=12.641403508771901, pvalue=0.013167605915641109)
+- cp: KruskalResult(statistic=0.8805614035087501, pvalue=0.9273328880071409)
+- cnpmi: KruskalResult(statistic=0.7536842105263304, pvalue=0.9445472584841325)
+- umass: KruskalResult(statistic=1.079859649122767, pvalue=0.8974543910875169)
+
+Note that if the resulting p-value is greater than 0.05, we can understand that there is no statistically significant difference between the medians of compared groups. If the resulting p-value is lower than 0.05, we can understand that there is a statistically significant difference between the medians of compared groups. Based on these results, we found a statistically significant difference between groups of ca metric scores. After applying Dunn-Bonferroni test to these groups, we identified that the differences occurred between the groups of scores generated with 9 and 10 topics, and between the groups of scores generated with 10 and 12 topics. There is no statistically significant difference between the other groups.
+
+Finally, we can conclude that the results of our study would not be impacted if we have modeled fewer (e.g., 8 and 9) or more (e.g., 11 and 12) than 10 topics based on three of our four automated coherence metrics. We acknowledge that the results of our study would have been impacted, considering the metric ca, if we have modeled 9 or 12 topics rather than 10.
